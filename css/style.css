@@ -1,0 +1,15 @@
+.design button
+	{
+		margin-right: 10px;
+        margin: 10px;
+        font-size: 18px;
+
+	}
+	.design input
+	{
+      font-size: 15px;
+	}
+	.design button:hover
+	{
+		background: yellow;
+	}
